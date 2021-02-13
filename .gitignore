@@ -1,0 +1,3 @@
+# игнорирование временных файлов от VScode и WebShtorm
+.vscode 
+.idea
